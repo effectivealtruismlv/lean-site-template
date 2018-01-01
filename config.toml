@@ -26,6 +26,7 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
   legalOrgName = "- Effective Altruism Las Vegas"
+  orgLocations = ""
   contactEmail = "yourEAGroupEmail@here.com"
 
   [Languages.en.navbar]
