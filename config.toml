@@ -58,11 +58,11 @@ DefaultContentLanguage = "en"
   bottomBannerText = "A proud member of the effective altruism network"
 
   [Languages.en.contactform]
-  leadText = "Say hi!"
-  senderName = "Your name (required)"
-  senderEmail = "Your email (required)"
+  leadText = "Contact"
+  senderName = "Name*"
+  senderEmail = "Email Address*"
   emailSubject = "Subject"
-  emailMessage = "Your Message:"
+  emailMessage = "Message*"
   send = "Send"
 
   [Languages.en.jumbotron]
@@ -80,6 +80,6 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = ""
+  facebookUrl = "https://www.facebook.com/EffectiveAltruismLV"
   twitterUrl = ""
   meetupUrl = ""
